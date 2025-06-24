@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning, Data Science , AI and Full Stack<br><br> <br><br>👯 I’m looking to collaborate on Full Stack and Machine Learning<br><br>⚡ Fun fact - An avid youtube and reddit wanderer
+🔭 I’m currently working on Machine Learning, Data Science , AI and Full Stack <br><br>👯 I’m looking to collaborate on Full Stack and Machine Learning<br><br>⚡ Fun fact - An avid youtube and reddit wanderer
 
 
 ## 🌐 Socials:
